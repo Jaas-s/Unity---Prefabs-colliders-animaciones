@@ -1,4 +1,6 @@
 # Unity---Prefabs-colliders-animaciones
+Proyectos de desarrollo de videojuegos en Unity con mecánicas interactivas y lógica en C#.
+
 # Unity Game Projects  
 Colección de proyectos desarrollados en Unity enfocados en mecánicas de juego, interacción entre objetos y lógica de programación.  
 ## Tecnologías 
